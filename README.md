@@ -1,2 +1,5 @@
-# print_geoms_on_graph
-A Python/Jupyter script for printing geometries on a graph
+# Print geometries using graphs
+
+A Python/Jupyter script for printing geometries using graphs.
+
+Useful for testing points generated from different geometries. With this script we can make sure that a Point is inside the original geometry.
